@@ -1,3 +1,40 @@
 .navbar{
     background-color: #105652;
 }
+.footer{
+    background-color: #f1f1f1;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    
+
+
+}
+.footerfont{
+    background-color: rgba(0, 0, 0, 0.2);
+    text-align: center;
+    padding: 1rem!important;
+}
+
+.image{
+    height: 50%;
+    width: 70% !important;
+    margin-top: 12%;
+    margin-left: 15%;
+}
+.title1{
+    text-align: center;
+
+}
+.button{
+    width: 100%;
+    background-color: #00d3c7;
+    color: black;
+    font-weight: 500 !important;
+}
+
+.text_card{
+    font-weight: 600;
+    text-align: center;
+}
+
