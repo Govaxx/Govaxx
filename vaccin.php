@@ -5,7 +5,11 @@
    <meta charset="utf-8">
    <link rel="stylesheet" href="style.css" />
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+<<<<<<< HEAD
    <link rel="stylesheet" href="https://cdnjs.cloudispolare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+=======
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+>>>>>>> fd224af4ceb979a01af15f0dbd42e1d1506ede29
    <title>GoVax</title>
 </head>
 
@@ -22,6 +26,7 @@
       </ul>
    </nav>
 </header>
+<<<<<<< HEAD
 &nbsp;
 
 <form action='#' method='post'>
@@ -174,3 +179,6 @@ label.light {
 
 
 </style>
+=======
+&nbsp;
+>>>>>>> fd224af4ceb979a01af15f0dbd42e1d1506ede29
